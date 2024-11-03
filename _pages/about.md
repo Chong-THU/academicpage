@@ -11,7 +11,7 @@ I earned my Ph.D. in Economics from Tsinghua University. I am engaged in indepen
 
 My research focuses on Mathematical Approaches for Classical Political Economy, Marxian Economics and Post-Keynesian Economics.
 
-I also have interests in the topics on China’s Economy and the methods of Quantitative Spatial Analysis.
+I also have research interests in the topics on China’s Economy and the methods of Quantitative Spatial Analysis.
 
 I am committed to analyzing problems and proposing solutions from the perspective of Political Economy while promoting a critical and constructive dialogue with Mainstream Economics.
 

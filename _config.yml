@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Chong Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. in Economics"
+  bio              : # "Ph.D. in Economics"
   location         : "Earth"
   employer         : "University of Cambridge"
   uri              : # URL
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-3259-1656"
+  orcid            : # "https://orcid.org/0000-0002-3259-1656"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL

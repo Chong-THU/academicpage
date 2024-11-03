@@ -1,13 +1,26 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Chong Liu"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Welcome!
+欢迎来到我的学术主页！
+
+I earned my Ph.D. in Economics from Tsinghua University. I am engaged in independent postdoctoral research at the Department of Land Economy, University of Cambridge.
+我是清华大学的经济学博士，目前在剑桥大学土地经济系开展博士后研究工作。
+
+My research focuses on Mathematical Approaches for Classical Political Economy, Marxian Economics and Post-Keynesian Economics.
+我的研究领域是数理政治经济学、马克思经济学和后凯恩斯经济学。
+
+I also have interests in the topics on China’s Economy and the methods of Spatial Analysis.
+我也对中国经济问题和空间分析方法感兴趣。
+
+I am committed to analyzing problems and proposing solutions from the perspective of Political Economy while promoting a critical and constructive dialogue with Mainstream Economics.
+我致力于从政治经济学的视角分析现实问题并提出解决方案，同时推动与主流经济学之间的批判性与建设性的对话。
 
 A data-driven personal website
 ======

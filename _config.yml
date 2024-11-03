@@ -25,9 +25,8 @@ author:
   name             : "Chong Liu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. in Economics & Researcher in Mathematical Political Economy"
-  location         : "19 Silver Street, Cambridge, CB3 9EP, United Kingdom"
+  location         : # "19 Silver Street, Cambridge, CB3 9EP, United Kingdom"
   employer         : "University of Cambridge"
-  employer         : "Tsinghua University"
   uri              : # URL
   email            : "cl2009@cam.ac.uk" 
 

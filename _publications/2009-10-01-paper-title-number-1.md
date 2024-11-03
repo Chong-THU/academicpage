@@ -1,10 +1,10 @@
 ---
 title: "Production Structure, Income Distribution and Macroeconomic Efficiency: An Analytical Framework and Empirical Study of Marxist Political Economy (in Chinese)"
 collection: publications
-category: manuscripts
-permalink: /publication/ERJ2019
+category: Mathematical Political Economy
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'In the current literature, there is little systematic research on the relationship among adjustment of the income distribution, change in economic structure and improvement of macroeconomic efficiency. This paper expands Marx’s reproduction schema into the &quot;Marx–Sraffa&quot; three-department structure table comprising fixed capital, general means of production and means of consumption and employs China’s input–output table from 1987 to 2015 to portray the relationship between income distribution and macroeconomic efficiency under investment-driven growth. This paper calculates the wage–profit curve of China’s economy and evaluates the space of macroeconomic efficiency improvement in China based on the deviation between actual and potential income distribution structure. The results show that there is a downward trend of the profit rate, which meets Marx’s theoretical prediction, and the decline in the profit rate is mainly attributed to an increase in the organic composition of capital arising from the rapid growth of fixed capital investment under extended growth. The analysis of macroeconomic efficiency shows that the space for improving macroeconomic efficiency is extremely limited under traditional growth pattern and that China must transform its economic development pattern and foster new economic growth drivers.'
-date: 2019
+date: 2019-10-01
 venue: 'Economic Research Journal'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
